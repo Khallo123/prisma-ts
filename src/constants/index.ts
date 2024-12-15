@@ -1,0 +1,1 @@
+export const defualtErrorMassage = 'Something went wrong with the server'
